@@ -1,3 +1,3 @@
-# Algorithm Midterm
+# Algorithm Midterm Coding
 - sudoku
 - crossword
