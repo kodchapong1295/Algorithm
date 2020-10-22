@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/plusLargeNumber.iml" filepath="$PROJECT_DIR$/plusLargeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RussianMultiplication.iml" filepath="$PROJECT_DIR$/RussianMultiplication.iml" />
     </modules>
   </component>
 </project>
